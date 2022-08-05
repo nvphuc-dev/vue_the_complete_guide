@@ -1,0 +1,2 @@
+2. Basics & Core Concepts - DOM Interaction with Vue\2. Creating and Connecting Vue App Instances.mp4" Done
+2. Basics & Core Concepts - DOM Interaction with Vue\29. Module Summary.mp4" Done
